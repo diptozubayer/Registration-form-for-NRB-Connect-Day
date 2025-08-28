@@ -1,5 +1,3 @@
-Here’s a clean, ready-to-use HTML registration form that captures your requested fields. It includes dropdowns for **Industry** and **Occupation**, plus **Country/State (Region)**, **Address**, and **Sector**—with basic validation and smart “Other / Self-describe” reveal fields. Copy-paste into a file like `registration.html` and open in any browser.
-
 ```html
 <!DOCTYPE html>
 <html lang="en">
